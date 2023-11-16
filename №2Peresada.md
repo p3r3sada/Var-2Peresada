@@ -1,11 +1,7 @@
 ```mermaid
 flowchart TD;
-A(olalaa) --> B(ffff)
+A(Получение сертификата соответствия) --> B(ffff)
 ```
 
 
 
-```mermaid
-flowchart TD;
-A(ytr) --> B(ogpf)
-```
